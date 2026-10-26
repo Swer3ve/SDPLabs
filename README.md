@@ -9,3 +9,8 @@
 
 Энэ төслөөр бид Scrum аргачлалыг дагаж, жижиг веб аппликейшн
 хөгжүүлэх болно.
+
+## Kanban самбар
+
+[Trello — SDP](https://trello.com/invite/b/6ad6b560a99d2fe28e0fcf8b/ATTIc71bd791147d8c69cb2da1dcc787d691582851EC/sdp)
+
