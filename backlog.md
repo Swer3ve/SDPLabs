@@ -283,11 +283,3 @@
 3. US-06, US-13, US-14, US-07, US-15.
 4. Үнэлгээний API гэрээ; US-05, US-11, US-12.
 5. US-08.
-
-AI загвар сургах, CV задлах хөдөлгүүр бүтээх нь дэлгэцийн story-уудад орохгүй. Бэлэн API гэрээ эсвэл mock шаардлагатай.
-
-## Backlog ашиглах
-
-[Excel backlog](backlog.xlsx)-ийн Priority, Notes, Status-ийг шинэчилж болно. Story өөрчлөгдвөл энэ баримтын тайлбар ба шалгуурыг хамт шинэчилнэ. GitLab-ийн #1–#15 issue бүрт тохирох US хэсгийг description болгон, priority-г label болгон ашиглана. To do / In Progress / Done board-ийг үргэлжлүүлэн хэрэглэнэ.
-
-Энэ хувилбарын шинэ шаардлагууд локалд бэлтгэгдсэн. GitLab description/label-ийн шинэчлэл болон repository-д нийтлэх нь commit message ирсний дараах нийтлэх багцад орно. Excel нь GitLab-тай автоматаар синк хийхгүй.
