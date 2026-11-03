@@ -1,0 +1,24 @@
+{
+  "name": "sdplabs",
+  "version": "1.0.0",
+  "description": "Энэ бол миний Программ хангамж хөгжүүлэлтийн процесс\r хичээлийн анхны төсөл.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/sdp475840/sdplabs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://gitlab.com/sdp475840/sdplabs/issues"
+  },
+  "homepage": "https://gitlab.com/sdp475840/sdplabs#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
