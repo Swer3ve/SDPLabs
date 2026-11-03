@@ -1,8 +1,9 @@
 def search_jobs(jobs: list[dict], keyword: str) -> list[dict]:
     results = []
+    keyword = keyword.lower()
 
     for job in jobs:
-        if keyword in job["title"]:
+        if keyword in job["title"].lower():
             results.append(job)
 
     return results
@@ -15,4 +16,5 @@ if __name__ == "__main__":
         {"id": 3, "title": "Backend Developer", "status": "open"},
     ]
 
+    print(search_jobs(jobs, "python"))
     print(search_jobs(jobs, "Developer"))
