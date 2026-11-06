@@ -10,7 +10,7 @@ JOBS = [
 
 def test_search_ignores_case_and_spaces():
     result = search_jobs(JOBS, " PYTHON ")
-    assert [job["id"] for job in result] == [999]
+    assert [job["id"] for job in result] == [1]
 
 
 def test_search_excludes_closed_jobs():
